@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyShope</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_cnt_mnu_edit">Edit</string>
+    <string name="str_cnt_mnu_delete">Delete</string>
+    <string name="str_remove">Remove</string>
+</resources>
